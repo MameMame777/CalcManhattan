@@ -5,7 +5,5 @@
   
 ## Require
 
-```mermaid
 flowchart LR
 A --> B
-```
