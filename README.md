@@ -1,12 +1,7 @@
 # CaclManhattan
 
 ## about
-  
   ピン間の距離をマンハッタンで計算します
-  
+  Xilinxの7シリーズのFPGAを対象としています
 ## Require
-
-```mermaid
-flowchart LR
-A --> B
-```
+  サンプルのcsvファイル file.csvの形式で記述し、.exeを実行してください
